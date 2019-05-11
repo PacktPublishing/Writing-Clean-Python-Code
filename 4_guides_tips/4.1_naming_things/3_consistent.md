@@ -1,4 +1,4 @@
-# Be consistent with naming variables
+# Be consistent
 
 # Bad
 ```python

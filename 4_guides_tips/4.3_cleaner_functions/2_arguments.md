@@ -7,7 +7,6 @@ def create_page(title, meta, body, footer, menu):
 ```
 
 # Good
-Here we are separating the responsibility by creating a function that returns active users 
 
 ```python
 Class Page:
