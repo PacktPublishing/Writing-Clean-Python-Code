@@ -1,6 +1,6 @@
 # Name your variable clearly
 
-# Bad - What does you mean?
+# Bad - What does 'u' mean?
 ```python
 get_page(u)
 ```
