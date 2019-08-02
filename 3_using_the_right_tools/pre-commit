@@ -1,0 +1,4 @@
+#!/bin/sh
+
+FILES=$(git diff --cached --name-only)
+pycodestyle ${FILES}

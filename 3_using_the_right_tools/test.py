@@ -1,9 +1,3 @@
-			def this-wont-work:
-	if    true :
+def this_wont_work():
+    if true:
         n = 1
-
-
-
-
-
-            
