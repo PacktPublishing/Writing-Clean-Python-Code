@@ -14,4 +14,5 @@ class Product:
     name
     title
     category
+
 ```

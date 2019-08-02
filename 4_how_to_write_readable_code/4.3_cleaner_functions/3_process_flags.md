@@ -18,7 +18,7 @@ def create_log(filename: str, in_system: bool) -> None:
 from pathlib import Path
 
 def create_log(filename: str) -> None:
-    Path(filename).touch()
+   Path(filename).touch()
 
 def create_system_log(filename: str) -> None:
     Path('/var/log/' + filename).touch()

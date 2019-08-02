@@ -1,5 +1,6 @@
 # Function names
-Function names should say what they are precisely doing and should indicate what is returned
+Function names should say what they are precisely doing and 
+should indicate what is returned
 
 # Bad
 ```python

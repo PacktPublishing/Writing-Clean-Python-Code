@@ -10,7 +10,8 @@ def email_newsletter(users):
 ```
 
 # Good
-Here we are separating the responsibility by creating a function that returns active users 
+Here we are separating the responsibility by creating a function 
+that returns active users 
 
 ```python
 def get_active_users(users):

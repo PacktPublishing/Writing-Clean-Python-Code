@@ -19,7 +19,7 @@ Class Page:
 
 page = Page(
     {
-        "title": "This is the page title",
+       "title": "This is the page title",
         "meta": "Dummy page",
         "body": "Page body",
         "footer": "List of links",

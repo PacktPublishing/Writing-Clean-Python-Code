@@ -1,4 +1,5 @@
-# Avoid forcing the reader of the code to guess what the variable represents
+# Avoid forcing the reader of the code to guess 
+# what the variable represents
 
 # Bad
 ```python
@@ -9,17 +10,17 @@ for x in items:
     resume_update() 
     # ...
     # Wait, what's `x` for again?
-    do_somthing(x)
+    do_something(x)
 ```    
   
 # Good
 
 ```python
 programming_languages = ('Python', 'PHP', 'JavaScript')
-
 for language in programming_languages:
     portfolio_update()
-    cv_update() 
+    resume_update() 
     # ...
-    do_somthing(language)
+    do_something(language)
+
 ```
